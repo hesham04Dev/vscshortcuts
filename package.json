@@ -2,7 +2,14 @@
   "name": "vscshortcuts",
   "displayName": "shortcuts vscode",
   "description": "show random vscode shortcuts",
+  "publisher": "Hcody",
+	"private": false,
+	"license": "MIT",
   "version": "1.0.0",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/hesham04Dev/vscshortcuts"
+	},
   "engines": {
     "vscode": "^1.50.0"
   },
