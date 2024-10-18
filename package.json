@@ -6,7 +6,7 @@
 	"private": false,
 	"license": "MIT",
   "icon": "images/icon.png",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "repository": {
 		"type": "git",
 		"url": "https://github.com/hesham04Dev/vscshortcuts"
